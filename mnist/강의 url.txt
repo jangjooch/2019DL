@@ -1,0 +1,7 @@
+https://hunkim.github.io/ml/
+	- 모두를 위한 머신러닝
+	- 실습 중심의 개념 강의
+
+https://developers.google.com/machine-learning/crash-course/?refresh=1
+	- 머신러닝 단기집중 과정
+
