@@ -1,0 +1,11 @@
+구글 웹 드라이브에서 단순하게 DataSet을 보는 것이다.
+
+파일 -> 새 Python 3만들기. 하여 새로운 페이지 생성
+파일 -> 노트 업로드 -> nltk-gutenberg.ipynb. DataSet관련 노트 업로드
+가장 위의 코드 실행. import nltk from nltk.corpus import gutenberg. import 실행
+gutenberg.fileids() 실행. -> 오류 발생 -> 오류내용 중 nltk.download('gutenberg') 복사
+코드 + 클릭하여 코드 라인 추가 -> 내부에 붙여넣기
+ -> 실행. lookup 오류인 nltk.download('gutenberg')를 실행하여 오류 해결
+다시 위로 올라가 gutenberg.fileids() 실행. -> gutenberg의 필드들 출력
+
+이러한 방식으로 오류를 풀어가며 각 코드 실행
