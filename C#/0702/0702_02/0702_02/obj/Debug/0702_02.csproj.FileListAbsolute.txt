@@ -1,0 +1,7 @@
+H:\C#\0702_02\0702_02\bin\Debug\0702_02.exe.config
+H:\C#\0702_02\0702_02\bin\Debug\0702_02.exe
+H:\C#\0702_02\0702_02\bin\Debug\0702_02.pdb
+H:\C#\0702_02\0702_02\obj\Debug\0702_02.csprojAssemblyReference.cache
+H:\C#\0702_02\0702_02\obj\Debug\0702_02.csproj.CoreCompileInputs.cache
+H:\C#\0702_02\0702_02\obj\Debug\0702_02.exe
+H:\C#\0702_02\0702_02\obj\Debug\0702_02.pdb
