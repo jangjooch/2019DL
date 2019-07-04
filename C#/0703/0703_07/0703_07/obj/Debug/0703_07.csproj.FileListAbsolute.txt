@@ -1,0 +1,7 @@
+C:\Users\Jang\source\repos\0703_07\0703_07\bin\Debug\0703_07.exe.config
+C:\Users\Jang\source\repos\0703_07\0703_07\bin\Debug\0703_07.exe
+C:\Users\Jang\source\repos\0703_07\0703_07\bin\Debug\0703_07.pdb
+C:\Users\Jang\source\repos\0703_07\0703_07\obj\Debug\0703_07.csprojAssemblyReference.cache
+C:\Users\Jang\source\repos\0703_07\0703_07\obj\Debug\0703_07.csproj.CoreCompileInputs.cache
+C:\Users\Jang\source\repos\0703_07\0703_07\obj\Debug\0703_07.exe
+C:\Users\Jang\source\repos\0703_07\0703_07\obj\Debug\0703_07.pdb
