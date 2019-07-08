@@ -1,0 +1,7 @@
+H:\C#\0704_03\0704_03\bin\Debug\0704_03.exe.config
+H:\C#\0704_03\0704_03\bin\Debug\0704_03.exe
+H:\C#\0704_03\0704_03\bin\Debug\0704_03.pdb
+H:\C#\0704_03\0704_03\obj\Debug\0704_03.csprojAssemblyReference.cache
+H:\C#\0704_03\0704_03\obj\Debug\0704_03.csproj.CoreCompileInputs.cache
+H:\C#\0704_03\0704_03\obj\Debug\0704_03.exe
+H:\C#\0704_03\0704_03\obj\Debug\0704_03.pdb

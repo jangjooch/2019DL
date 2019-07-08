@@ -1,0 +1,10 @@
+H:\C#\0704_07\0704_07\bin\Debug\0704_07.exe.config
+H:\C#\0704_07\0704_07\bin\Debug\0704_07.exe
+H:\C#\0704_07\0704_07\bin\Debug\0704_07.pdb
+H:\C#\0704_07\0704_07\obj\Debug\0704_07.csprojAssemblyReference.cache
+H:\C#\0704_07\0704_07\obj\Debug\_0704_07.Form1.resources
+H:\C#\0704_07\0704_07\obj\Debug\_0704_07.Properties.Resources.resources
+H:\C#\0704_07\0704_07\obj\Debug\0704_07.csproj.GenerateResource.cache
+H:\C#\0704_07\0704_07\obj\Debug\0704_07.csproj.CoreCompileInputs.cache
+H:\C#\0704_07\0704_07\obj\Debug\0704_07.exe
+H:\C#\0704_07\0704_07\obj\Debug\0704_07.pdb
