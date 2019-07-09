@@ -1,0 +1,10 @@
+H:\ImageProcessing\Project\0708_GrayLevel\bin\Debug\0708_GrayLevel.exe.config
+H:\ImageProcessing\Project\0708_GrayLevel\bin\Debug\0708_GrayLevel.exe
+H:\ImageProcessing\Project\0708_GrayLevel\bin\Debug\0708_GrayLevel.pdb
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\0708_GrayLevel.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\_0708_GrayLevel.Form1.resources
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\_0708_GrayLevel.Properties.Resources.resources
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\0708_GrayLevel.csproj.GenerateResource.cache
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\0708_GrayLevel.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\0708_GrayLevel.exe
+H:\ImageProcessing\Project\0708_GrayLevel\obj\Debug\0708_GrayLevel.pdb

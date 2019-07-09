@@ -1,0 +1,10 @@
+H:\ImageProcessing\Project\0705_ToGraybyArray\bin\Debug\0705_ToGraybyArray.exe.config
+H:\ImageProcessing\Project\0705_ToGraybyArray\bin\Debug\0705_ToGraybyArray.exe
+H:\ImageProcessing\Project\0705_ToGraybyArray\bin\Debug\0705_ToGraybyArray.pdb
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\0705_ToGraybyArray.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\_0705_ToGraybyArray.Form1.resources
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\_0705_ToGraybyArray.Properties.Resources.resources
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\0705_ToGraybyArray.csproj.GenerateResource.cache
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\0705_ToGraybyArray.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\0705_ToGraybyArray.exe
+H:\ImageProcessing\Project\0705_ToGraybyArray\obj\Debug\0705_ToGraybyArray.pdb

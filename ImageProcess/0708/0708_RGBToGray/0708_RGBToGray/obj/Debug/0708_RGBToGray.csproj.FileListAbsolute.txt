@@ -1,0 +1,10 @@
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\bin\Debug\0708_RGBToGray.exe.config
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\bin\Debug\0708_RGBToGray.exe
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\bin\Debug\0708_RGBToGray.pdb
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\0708_RGBToGray.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\_0708_RGBToGray.Form1.resources
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\_0708_RGBToGray.Properties.Resources.resources
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\0708_RGBToGray.csproj.GenerateResource.cache
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\0708_RGBToGray.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\0708_RGBToGray.exe
+H:\ImageProcessing\Project\0708_RGBToGray\0708_RGBToGray\obj\Debug\0708_RGBToGray.pdb

@@ -1,0 +1,10 @@
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\bin\Debug\0708_ReadImage.exe.config
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\bin\Debug\0708_ReadImage.exe
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\bin\Debug\0708_ReadImage.pdb
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\0708_ReadImage.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\_0708_ReadImage.Form1.resources
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\_0708_ReadImage.Properties.Resources.resources
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\0708_ReadImage.csproj.GenerateResource.cache
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\0708_ReadImage.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\0708_ReadImage.exe
+H:\ImageProcessing\Project\0708_ReadImage\0708_ReadImage\obj\Debug\0708_ReadImage.pdb
