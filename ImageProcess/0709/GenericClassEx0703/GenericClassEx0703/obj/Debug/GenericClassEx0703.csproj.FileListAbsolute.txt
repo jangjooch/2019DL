@@ -1,0 +1,7 @@
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\bin\Debug\GenericClassEx0703.exe.config
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\bin\Debug\GenericClassEx0703.exe
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\bin\Debug\GenericClassEx0703.pdb
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\obj\Debug\GenericClassEx0703.csproj.CoreCompileInputs.cache
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\obj\Debug\GenericClassEx0703.exe
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\obj\Debug\GenericClassEx0703.pdb
+C:\ImageProcessing\Page76_ImageBoxEmgu\GenericClassEx0703\obj\Debug\GenericClassEx0703.csprojAssemblyReference.cache

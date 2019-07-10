@@ -1,0 +1,10 @@
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\bin\Debug\0709_ShadowBitmap.exe.config
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\bin\Debug\0709_ShadowBitmap.exe
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\bin\Debug\0709_ShadowBitmap.pdb
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\0709_ShadowBitmap.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\_0709_ShadowBitmap.Form1.resources
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\_0709_ShadowBitmap.Properties.Resources.resources
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\0709_ShadowBitmap.csproj.GenerateResource.cache
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\0709_ShadowBitmap.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\0709_ShadowBitmap.exe
+H:\ImageProcessing\Project\0709_ShadowBitmap\0709_ShadowBitmap\obj\Debug\0709_ShadowBitmap.pdb
