@@ -1,0 +1,7 @@
+H:\ImageProcessing\Project\0710_RefTest\bin\Debug\0710_RefTest.exe.config
+H:\ImageProcessing\Project\0710_RefTest\bin\Debug\0710_RefTest.exe
+H:\ImageProcessing\Project\0710_RefTest\bin\Debug\0710_RefTest.pdb
+H:\ImageProcessing\Project\0710_RefTest\obj\Debug\0710_RefTest.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0710_RefTest\obj\Debug\0710_RefTest.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0710_RefTest\obj\Debug\0710_RefTest.exe
+H:\ImageProcessing\Project\0710_RefTest\obj\Debug\0710_RefTest.pdb
