@@ -1,0 +1,7 @@
+H:\ImageProcessing\Project\0711_Delegate_Example\bin\Debug\0711_Delegate_Example.exe.config
+H:\ImageProcessing\Project\0711_Delegate_Example\bin\Debug\0711_Delegate_Example.exe
+H:\ImageProcessing\Project\0711_Delegate_Example\bin\Debug\0711_Delegate_Example.pdb
+H:\ImageProcessing\Project\0711_Delegate_Example\obj\Debug\0711_Delegate_Example.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\0711_Delegate_Example\obj\Debug\0711_Delegate_Example.csproj.CoreCompileInputs.cache
+H:\ImageProcessing\Project\0711_Delegate_Example\obj\Debug\0711_Delegate_Example.exe
+H:\ImageProcessing\Project\0711_Delegate_Example\obj\Debug\0711_Delegate_Example.pdb
