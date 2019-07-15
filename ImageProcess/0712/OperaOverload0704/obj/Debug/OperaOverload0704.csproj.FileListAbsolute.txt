@@ -1,0 +1,14 @@
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\bin\Debug\OperaOverload0704.exe.config
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\bin\Debug\OperaOverload0704.exe
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\bin\Debug\OperaOverload0704.pdb
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\obj\Debug\OperaOverload0704.csprojAssemblyReference.cache
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\obj\Debug\OperaOverload0704.csproj.CoreCompileInputs.cache
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\obj\Debug\OperaOverload0704.exe
+L:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\ProjectPlayImageProcessing\7월 4일 준비버전\EmguByConversion\Page76_ImageBoxEmgu\OperaOverload0704\obj\Debug\OperaOverload0704.pdb
+H:\ImageProcessing\Project\OperaOverload0704\obj\Debug\OperaOverload0704.exe
+H:\ImageProcessing\Project\OperaOverload0704\obj\Debug\OperaOverload0704.pdb
+H:\ImageProcessing\Project\OperaOverload0704\bin\Debug\OperaOverload0704.exe.config
+H:\ImageProcessing\Project\OperaOverload0704\bin\Debug\OperaOverload0704.exe
+H:\ImageProcessing\Project\OperaOverload0704\bin\Debug\OperaOverload0704.pdb
+H:\ImageProcessing\Project\OperaOverload0704\obj\Debug\OperaOverload0704.csprojAssemblyReference.cache
+H:\ImageProcessing\Project\OperaOverload0704\obj\Debug\OperaOverload0704.csproj.CoreCompileInputs.cache

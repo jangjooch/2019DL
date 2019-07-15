@@ -1,0 +1,10 @@
+1. 프로젝트 속성 -> 참조 경로 -> Emgu 폴더 경로 추가
+
+2. 각 프로젝트의 bin -> Debug 안에 밑 3가지 파일 추가
+Emgu.CV.dll
+Emgu.CV.UI.dll
+Emgu.Util.dll
+
+3. 프로젝트 생성 후
+   프로젝트 -> 참조추가 -> 확장
+	-> Emgu.CV, Emgu.CV.UI, Emgu.Util 체크 추가
