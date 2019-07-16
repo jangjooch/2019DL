@@ -1,0 +1,41 @@
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\MainWindow.baml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\MainWindow.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\App.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf_Content.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf_MarkupCompile.cache
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.g.resources
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.Properties.Resources.resources
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.csproj.GenerateResource.Cache
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.exe.config
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\haarcascade_eye.xml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\haarcascade_frontalface_default.xml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.exe
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.pdb
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.UI.dll
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.World.dll
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\ZedGraph.dll
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.UI.xml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.World.xml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.exe
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.pdb
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\haarcascade_eye.xml
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\haarcascade_frontalface_default.xml
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.exe.config
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.exe
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\OzOpenCVTesterWpf.pdb
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\ZedGraph.dll
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.UI.xml
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Release\Emgu.CV.World.xml
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.csprojAssemblyReference.cache
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\MainWindow.baml
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\MainWindow.g.cs
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\App.g.cs
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf_Content.g.cs
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf_MarkupCompile.cache
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.g.resources
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.Properties.Resources.resources
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.csproj.GenerateResource.cache
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.csproj.CoreCompileInputs.cache
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.csproj.CopyComplete
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.exe
+J:\강의관련\2019년 1학기\KISE\호서대 단기_머신비전(190624)\OpenCVProject\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Release\OzOpenCVTesterWpf.pdb

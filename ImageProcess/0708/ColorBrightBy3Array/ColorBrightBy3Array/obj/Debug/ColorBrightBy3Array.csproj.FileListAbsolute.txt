@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\bin\Debug\ColorBrightBy3Array.exe.config
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\bin\Debug\ColorBrightBy3Array.exe
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\bin\Debug\ColorBrightBy3Array.pdb
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.Form1.resources
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.Properties.Resources.resources
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.exe
+C:\Users\user\source\repos\Page53_Color2GrayByArray0702\ColorBrightBy3Array\obj\Debug\ColorBrightBy3Array.pdb

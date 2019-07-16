@@ -1,0 +1,10 @@
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\bin\Debug\OzOpenCVTesterWpf.exe.config
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf.csprojResolveAssemblyReference.cache
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\MainWindow.baml
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\MainWindow.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\App.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf_Content.g.cs
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf_MarkupCompile.cache
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf.g.resources
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf.Properties.Resources.resources
+F:\연구영역(2011년 1학기부터)\박사학위 청구 관련\사람 검출 프로그램(CSharp 버전 포함)\OzOpenCVTesterWpf\OzOpenCVTesterWpf\OzOpenCVTesterWpf\obj\Debug\OzOpenCVTesterWpf.csproj.GenerateResource.Cache
