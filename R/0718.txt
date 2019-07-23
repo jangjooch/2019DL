@@ -1,0 +1,14 @@
+01
+ - data.frame에 대한 파생변수를 통한 새로운 colume 생성
+ - scan을 통한 txt파일을  배열에 저장
+ - input을 통한 입력을 통한 저장.
+ - read.table을 통한 테이블 읽기.
+ - read.csv를 통한 csv파일 읽기
+
+02
+ - install.packages("googleVis")
+ - library(googleVis)
+ - install.packages("sqldf")
+ - library(sqldf)
+	- 사용
+ - readLine과 read.csv, read.talbe에 대한 차이점.
